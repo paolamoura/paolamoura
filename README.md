@@ -13,8 +13,8 @@
 
 <div align="center">
   <a href="https://github.com/paolamoura">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=paolamoura&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolamoura&theme=radical&hide_border=false&&layout=compact"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=paolamoura&count_private=true&include_all_commits=true&show_icons=true&theme=merko&hide_border=false&show_owner=true"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolamoura&theme=merko&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
