@@ -1,8 +1,7 @@
 <div>
   
   <h1 align="center">
-    Olá, tudo bem? Eu sou a 
-    <a href="https://www.linkedin.com/in/paola-moura-58b58a282">Paola Moura 😃️</a>
+    Hi there, I'm Paola Moura!
   </h1>
   
   <p align="center">
