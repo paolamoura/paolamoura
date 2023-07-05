@@ -1,8 +1,8 @@
 <div>
   
-  <h1 align="center">
-    ##Hi there, I'm Paola Moura! 👋
-  </h1>
+  <p align="center">
+    Hi there, I'm Paola Moura! 👋
+  </p>
   
   <p align="center">
     Sou estudante de Ciência da Computação na UFCG.
