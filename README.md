@@ -5,7 +5,7 @@
   </p>
   
   <p align="center">
-    Sou estudante de Ciência da Computação na UFCG.
+    I am a Computer Science Student at the Federal University of Campina Grande.
   </p>
   
 </div>
