@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    Hi there, I'm Paola Moura! 👋
+    ##Hi there, I'm Paola Moura! 👋
   </h1>
   
   <p align="center">
